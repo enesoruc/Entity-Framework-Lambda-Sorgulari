@@ -1,0 +1,15 @@
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\bin\Debug\Sorular_Cevaplar.exe.config
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\bin\Debug\Sorular_Cevaplar.exe
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\bin\Debug\Sorular_Cevaplar.pdb
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\obj\Debug\Sorular_Cevaplar.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\obj\Debug\Sorular_Cevaplar.Form1.resources
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\obj\Debug\Sorular_Cevaplar.Properties.Resources.resources
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\obj\Debug\Sorular_Cevaplar.csproj.GenerateResource.cache
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\obj\Debug\Sorular_Cevaplar.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\obj\Debug\Sorular_Cevaplar.exe
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\obj\Debug\Sorular_Cevaplar.pdb
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\bin\Debug\EntityFramework.dll
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\bin\Debug\EntityFramework.xml
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eneso\source\repos\09052019_Entity_Framework_Enes_Oruc\Sorular_Cevaplar\obj\Debug\Sorular_Cevaplar.csproj.CopyComplete
